@@ -54,6 +54,11 @@
      <Compile Include="Assets\Latihan1.cs" />
      <Compile Include="Assets\Latihan2.cs" />
      <Compile Include="Assets\Latihan3.cs" />
+     <Compile Include="Assets\Latihan4\Karakter.cs" />
+     <Compile Include="Assets\Latihan4\Latihan4.cs" />
+     <Compile Include="Assets\Latihan5\Manusia.cs" />
+     <Compile Include="Assets\Latihan5\Prajurit.cs" />
+     <Compile Include="Assets\Latihan6.cs" />
  <Reference Include="UnityEngine.CoreModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
  </Reference>
