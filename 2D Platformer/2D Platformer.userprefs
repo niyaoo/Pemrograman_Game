@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\EnemyController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Data.cs" Line="9" Column="1" />
+      <File FileName="Assets\Scripts\Bullet.cs" Line="27" Column="1" />
+      <File FileName="Assets\Scripts\GameOver.cs" Line="33" Column="1" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="181" Column="1" />
+      <File FileName="Assets\Scripts\ShowScore.cs" Line="12" Column="1" />
+      <File FileName="Assets\Scripts\AutoReplay.cs" Line="31" Column="1" />
+      <File FileName="Assets\Scripts\SoundManager.cs" Line="9" Column="2" />
+      <File FileName="Assets\Scripts\EnemyController.cs" Line="43" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
